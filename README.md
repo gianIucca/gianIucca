@@ -4,7 +4,7 @@
 <br>
 ### Atualmente trabalho na área de mineração de dados para o mercado financeiro, utilizando das melhores tecnologias para testar algoritmos, otimizar e gerar mais claridade sobre os dados disponíveis
 
-### https://github-readme-stats.vercel.app/api?username={gianiucca}
+### https://github-profile-trophy.vercel.app/?username={gianIucca}
 
 ### Tecnologias: 
 

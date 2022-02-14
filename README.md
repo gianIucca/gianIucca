@@ -4,5 +4,5 @@
 
 ### Tecnologias: 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gianlucca-vick-477769135/)
-(https://www.hackerrank.com/luccavick31)
+[![HackerRank Badge](https://img.shields.io/badge/-RackerRank-grey?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/luccavick31)
 (https://www.kaggle.com/gianluccavick)

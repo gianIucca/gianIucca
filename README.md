@@ -10,10 +10,3 @@
 
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gianlucca-vick-477769135/)
-[![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/luccavick31)
-[![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/gianluccavick)
-
-<br>
-
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={gianiucca}&theme=vue

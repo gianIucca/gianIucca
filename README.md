@@ -1,7 +1,7 @@
 # Olá, seja bem vindo!
 
 ### Me chamo Gianlucca e sou um programador Python com foco em ciência de dados e mineração de dados. Sou formado em Análise e Desenvolvimento de Sistemas pela IFSP, curso mais concorrido do Brasil em 2017, onde fui aprovado na oitava posição de ampla concorrência. Atualmente faço uma formação pela DNC Group em Ciência de Dados.<br>
-### Atualmente trabalho na área de mineração de dados para o mercado financeiro, utilizando das melhores tecnologias para testar algoritmos, otimizar e gerar mais claridade sobre os dados disponíveis. <br>
+### Atualmente trabalho na área de mineração de dados para o mercado financeiro, utilizando das melhores tecnologias para testar algoritmos, otimizar e gerar mais claridade sobre os dados disponíveis além de criar indicadores técnicos com base nas necessidades dos investidores. <br>
 
 
 ### Tecnologias: 
@@ -12,4 +12,4 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gianlucca-vick-477769135/)
 [![HackerRank Badge](https://img.shields.io/badge/-RackerRank-grey?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/luccavick31)
-(https://www.kaggle.com/gianluccavick)
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/gianluccavick)

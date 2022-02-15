@@ -1,10 +1,9 @@
 # Olá, seja bem vindo!
 
-### Me chamo Gianlucca e sou um programador Python com foco em ciência de dados e mineração de dados
+### Me chamo Gianlucca e sou um programador Python com foco em ciência de dados e mineração de dados. Sou formado em Análise e Desenvolvimento de Sistemas pela IFSP, curso mais concorrido do Brasil em 2017, onde fui aprovado na oitava posição de ampla concorrência. Atualmente faço uma formação pela DNC Group em Ciência de Dados.
 <br>
 ### Atualmente trabalho na área de mineração de dados para o mercado financeiro, utilizando das melhores tecnologias para testar algoritmos, otimizar e gerar mais claridade sobre os dados disponíveis
 
-### https://github-profile-trophy.vercel.app/?username={gianIucca}
 
 ### Tecnologias: 
 

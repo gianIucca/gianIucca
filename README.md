@@ -2,8 +2,6 @@
 
 #### Me chamo Gianlucca e sou um desenvolvedor Python com foco em ciência de dados e mineração de dados. Sou formado em Análise e Desenvolvimento de Sistemas pela IFSP, curso mais concorrido do Brasil pelo ENEM em 2017, onde fui aprovado na oitava posição de ampla concorrência. Também realizei uma pós-graduação em ciência de dados pela dnc.group.<br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gianiucca" alt="gianiucca" /></a> </p>
-
 <br>
 
 ## 🌐 Social:

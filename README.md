@@ -1,6 +1,7 @@
 # Olá, seja bem vindo!
 
-#### Me chamo Gianlucca e sou um programador Python com foco em ciência de dados e mineração de dados. Sou formado em Análise e Desenvolvimento de Sistemas pela IFSP, curso mais concorrido do Brasil em 2017, onde fui aprovado na oitava posição de ampla concorrência. Atualmente faço uma formação pela DNC Group em Ciência de Dados.<br>
+#### Me chamo Gianlucca e sou um desenvolvedor Python com foco em ciência de dados e mineração de dados. Sou formado em Análise e Desenvolvimento de Sistemas pela IFSP, curso mais concorrido do Brasil pelo ENEM em 2017, onde fui aprovado na oitava posição de ampla concorrência. Após me graduar, realizei também uma pós-graduação de ciência de dados pela dnc.group.<br>
+
 #### Atualmente trabalho na área de mineração de dados para o mercado financeiro, utilizando das melhores tecnologias para testar algoritmos, otimizar e gerar mais claridade sobre os dados disponíveis além de criar indicadores técnicos com base nas necessidades dos investidores. <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gianiucca&label=Profile%20views&color=0e75b6&style=flat" alt="gianiucca" /> </p>

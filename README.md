@@ -3,15 +3,13 @@
 #### Me chamo Gianlucca e sou um programador Python com foco em ciência de dados e mineração de dados. Sou formado em Análise e Desenvolvimento de Sistemas pela IFSP, curso mais concorrido do Brasil em 2017, onde fui aprovado na oitava posição de ampla concorrência. Atualmente faço uma formação pela DNC Group em Ciência de Dados.<br>
 #### Atualmente trabalho na área de mineração de dados para o mercado financeiro, utilizando das melhores tecnologias para testar algoritmos, otimizar e gerar mais claridade sobre os dados disponíveis além de criar indicadores técnicos com base nas necessidades dos investidores. <br>
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gianiucca&label=Profile%20views&color=0e75b6&style=flat" alt="gianiucca" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gianiucca" alt="gianiucca" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gianluccavick/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gianluccavick/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gianluccavick/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gianluccavick/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gianluccavick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gianluccavick" height="30" width="40" /></a>
 </p>
 

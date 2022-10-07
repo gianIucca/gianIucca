@@ -15,6 +15,7 @@
 
 
 ![Visitas](https://visitcount.itsvg.in/api?id=gianiucca&icon=0&color=brightgreen)(https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=gianiucca&color=brightgreen)
 
 
 

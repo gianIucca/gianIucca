@@ -2,7 +2,7 @@
 
 #### Me chamo Gianlucca e sou um desenvolvedor Python com foco em ciência de dados e mineração de dados. Sou formado em Análise e Desenvolvimento de Sistemas pela IFSP, curso mais concorrido do Brasil pelo ENEM em 2017, onde fui aprovado na oitava posição de ampla concorrência.
 
-#### Após me formar, também realizei uma pós-graduação em especialização em ciência de dados pela dnc.group, concluindo o curso como Aluno De Honra.
+#### Após me formar, também realizei uma pós-graduação em especialização em ciência de dados pela DNC, concluindo o curso como Aluno De Honra e tendo a oportunidade de ingressar na área atuando como cientista de dados em uma das startups que mais crescem no país, inclusive sendo citada como uma das 100 startups mais promissoras pela revista Exame.
 
 #### Atualmente estou atuando como Engenheiro de Dados na Move Analytics, estudando e me esforçando diariamente para conseguir entregar cada vez mais valor através dos dados.
 

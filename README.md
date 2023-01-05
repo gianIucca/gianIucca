@@ -4,7 +4,7 @@
 
 #### Após me formar, também realizei uma pós-graduação em especialização em ciência de dados pela DNC, concluindo o curso como Aluno De Honra e tendo a oportunidade de ingressar na área atuando como cientista de dados em uma das startups que mais crescem no país, inclusive sendo citada como uma das 100 startups mais promissoras pela revista Exame.
 
-#### Atualmente estou atuando como Engenheiro de Dados na Move Analytics, estudando e me esforçando diariamente para conseguir entregar cada vez mais valor através dos dados.
+#### Atualmente estou atuando como Engenheiro de Dados na Move Analytics, estudando e me esforçando diariamente para conseguir entregar cada vez mais valor através dos dados, enquanto aprimoro minhas habilidades com Python e Mineração de dados.
 
 <br>
 

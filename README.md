@@ -1,10 +1,10 @@
-# Olá, seja bem vindo!
+# Hi, welcome to my profile!
 
-#### Me chamo Gianlucca e sou um desenvolvedor Python com foco em ciência de dados e mineração de dados. Sou formado em Análise e Desenvolvimento de Sistemas pela IFSP, curso mais concorrido do Brasil pelo ENEM em 2017, onde fui aprovado na oitava posição de ampla concorrência.
+#### I'm Gianlucca, a Python developer with over 7 years of experience, specializing in data engineering, data science, and web scraping. I hold a degree in Systems Analysis and Development from IFSP—one of Brazil’s most competitive programs—and a postgraduate specialization in Data Science from DNC, where I graduated as an Honor Student.
 
-#### Após me formar, também realizei uma pós-graduação em especialização em ciência de dados pela DNC, concluindo o curso como Aluno De Honra e tendo a oportunidade de ingressar na área atuando como cientista de dados em uma das startups que mais crescem no país, inclusive sendo citada como uma das 100 startups mais promissoras pela revista Exame.
+#### For the past 3 years, I've been working as a Data Engineer at a fast-growing agribusiness startup, collaborating with some of the largest global players in the industry. My work involves data scraping, Python, SQL, machine learning, NLP (NLTK), AWS, Azure, and Databricks, delivering insights that drive strategic decisions.
 
-#### Atualmente estou atuando como Engenheiro de Dados na Move Analytics, estudando e me esforçando diariamente para conseguir entregar cada vez mais valor através dos dados, enquanto aprimoro minhas habilidades com Python e Mineração de dados.
+#### I'm always looking to improve my skills and stay at the forefront of data-driven innovation. Let’s connect!
 
 <br>
 
